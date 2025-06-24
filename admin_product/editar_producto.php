@@ -7,6 +7,7 @@ $result = $conn->query($sql);
 ?>
 
 <!doctype html>
+
 <html lang="en">
 
 <head>
