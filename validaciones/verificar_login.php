@@ -1,5 +1,5 @@
 <?php
-include 'conexion.php'; // Incluye la conexión a la base de datos (ya definida previamente).
+include 'conexion.php'; // Incluye la conexión a la base de datos (ya definida previamentes).
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $correo_electronico = $_POST["correo_electronico"];
