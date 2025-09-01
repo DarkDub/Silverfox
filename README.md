@@ -36,4 +36,4 @@ Este proyecto aún **no está finalizado**. Algunas características están en p
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/silverfox.git
+   git clone https://github.com/DarkDub/silverfox.git
