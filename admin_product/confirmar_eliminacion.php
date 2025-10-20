@@ -83,10 +83,7 @@
             <div class="text-center">
 
           <?php
-        // Aquí debes realizar una consulta a la base de datos para obtener los productos de comida.
-        // Reemplaza este ejemplo con la lógica de consulta real.
-
-        // Supongamos que obtuviste los datos de la base de datos en $productos.
+    
 
 
         include '../validaciones/conexion.php';
